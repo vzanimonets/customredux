@@ -1,0 +1,24 @@
+{
+  "name": "customredux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vzanimonets/redux-light.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vzanimonets/redux-light/issues"
+  },
+  "homepage": "https://github.com/vzanimonets/redux-light#readme",
+  "dependencies": {
+    "immer": "^8.0.1",
+    "react-scripts": "^4.0.2"
+  }
+}
