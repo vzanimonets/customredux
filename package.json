@@ -19,5 +19,8 @@
   "homepage": "https://github.com/vzanimonets/redux-light#readme",
   "dependencies": {
     "react-scripts": "^4.0.2"
+  },
+  "devDependencies": {
+    "yarn-upgrade-all": "^0.7.1"
   }
 }
